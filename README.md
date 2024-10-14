@@ -1,11 +1,11 @@
 # Hi there, I'm [Khushi Doye]! 👋
 
 ## About Me
-I am a passionate Java Full Stack Web Developer with expertise in a variety of technologies including Core Java, Advanced Java, HTML, CSS, JavaScript, Bootstrap, React.js, Angular.js, Node.js, Spring, Hibernate, and SQL for Java. I love building robust and scalable web applications that deliver exceptional user experiences.
+I am a passionate Java Developer with expertise in a variety of technologies including Core Java, Advanced Java, Spring, Hibernate, SQL for Java and data structures and algorithms using Java. I love building robust and scalable applications that deliver exceptional user experiences.
 
 ## Skills
-- **Languages:** Java (Core, Advanced), HTML, CSS, JavaScript
-- **Frameworks/Libraries:** Bootstrap, React.js, Angular.js, Node.js, Spring, Hibernate
+- **Languages:** Java (Core, Advanced)
+- **Frameworks/Libraries:**  Spring, Hibernate
 - **Databases:** SQL (MySQL, PostgreSQL, etc.)
 - **Other:** Git, RESTful APIs
 
