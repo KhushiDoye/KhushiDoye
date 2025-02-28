@@ -5,7 +5,7 @@ I am a passionate Java Developer with expertise in a variety of technologies inc
 
 ## Skills
 - **Languages:** Java (Core, Advanced), HTML, CSS
-- **Databases:** SQL (MySQL, PostgreSQL, etc.)
+- **Databases:** SQL (MySQL)
 - **Other:** Git, RESTful APIs
 
 ## Get in Touch
