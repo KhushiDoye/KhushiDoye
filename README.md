@@ -4,7 +4,7 @@
 I am a passionate Java Developer with expertise in a variety of technologies including Core Java, Advanced Java, HTML, CSS, SQL for Java and data structures and algorithms using Java. I love building robust and scalable applications that deliver exceptional user experiences.
 
 ## Skills
-- **Languages:** Java (Core, Advanced), HTML, CSS
+- **Languages:** Java (Core, Advanced), HTML, CSS, JavaScript
 - **Databases:** SQL (MySQL)
 - **Other:** Git, RESTful APIs
 
